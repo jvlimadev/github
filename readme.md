@@ -6,7 +6,6 @@ Passo a passo realizado:
 
 Primeiro comando ```git init ``` <br/>
 Segundo comando ```git config --local user.email "" ``` <br/>
-Primeiro comando ```git init ```  <br/>
 Terceiro comando ```git config --local user.name ""``` 
 Quarto comando git add . <br/>
 Quinto comando ```git commit -m "" ``` (entre as aspas, colocamos a mensagem) <br/>
