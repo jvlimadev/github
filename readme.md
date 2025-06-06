@@ -12,3 +12,5 @@ Quinto comando ```git commit -m "" ``` (entre as aspas, colocamos a mensagem) <b
 Sexto comando ```git branch -M main ``` (Criaremos a branch main) <br/>
 Sétimo comando ```git remote add origin https://github.com/jvlimadev/github.io``` (linkaremos o repositório remoto ao repositório local) <br/>
 Oitavo comando ```git push -u origin main```
+
+## Comandos Git
